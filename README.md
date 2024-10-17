@@ -16,3 +16,7 @@ This repository analyzes Vestiaire's product sales data, employing exploratory d
 - Python 3.x
 - Libraries: Pandas, NumPy, scikit-learn, TensorFlow, etc.
 
+HOLA SOY MARIA 
+SDJSOJDPA
+HOLA 
+
